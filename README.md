@@ -1,5 +1,5 @@
 # ufc_prediction
-Paul Suh (phs92), 5741
+Paul Suh (phs92), 4741
 Aditya Kompella(apk74), 5741
 Kenny Liang (ql75),  5741
 
